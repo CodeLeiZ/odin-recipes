@@ -11,7 +11,7 @@ h1.hp1.pizza {
     font-size: 45px;
     font-weight: bolder;
     background-color: black;
-    color: #B0A29A;
+    color: white;
 }
 
 a.btn {
@@ -35,3 +35,11 @@ img {
     margin-bottom: 20px;
 }
 
+div.txt-cntr {
+    text-align: center;
+}
+
+.txt-cntr .list {
+    display: inline-block;
+    text-align: left;
+}
